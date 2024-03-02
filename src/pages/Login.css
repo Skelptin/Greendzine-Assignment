@@ -1,0 +1,27 @@
+.btn {
+    
+    background-color: #36A546;
+
+    width: 20rem;
+    border-radius: 10rem;
+}
+
+.btn:hover {
+    opacity: 85%;
+    background-color: #36A546;
+  
+    
+}
+
+.para {
+    color: #36A546;
+    font-family: Mulish;
+    opacity: 50%;
+
+}
+
+.input {
+    color: white;
+    background-color: rgb(78, 78, 78);
+
+}

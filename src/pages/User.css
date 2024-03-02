@@ -1,0 +1,11 @@
+.input {
+    background-color: #757e7e99;
+    color: white;
+    height: 5vh;
+    width: 15rem;
+}
+
+.card {
+    background-color: #5E5E5E82;
+    mix-blend-mode: normal;
+}
